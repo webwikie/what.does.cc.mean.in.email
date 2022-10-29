@@ -1,6 +1,6 @@
 # What does cc mean in Email
 
-[![what does cc mean in email](redd.png)](https://icncomputer.com/what-does-cc-mean-in-email/)
+[![what does cc mean in email](redd.png)](https://computer-solved.com/what-does-cc-mean-in-email/)
 
 In effect, the CC field in an email allows the sender to send a “carbon copy” of the email to someone apart from the recipient in the To: field of the email. The CC field in email lets you keep recipients in the loop.
 
